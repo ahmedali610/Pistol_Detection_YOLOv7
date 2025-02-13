@@ -35,15 +35,17 @@ Evaluation plots demonstrating the model performance:
 
 
 ### Recall Curve
-(![download (3)](https://github.com/user-attachments/assets/3b34dc66-b1dd-47c8-8295-e78b3fa089c5))
+![download (3)](https://github.com/user-attachments/assets/3b34dc66-b1dd-47c8-8295-e78b3fa089c5)
 
 ### mAP Score
-![mAP Score](results/map_score.png)
+![download (4)](https://github.com/user-attachments/assets/3fa72dd0-48e2-4711-9f71-d90a327cbb66)
+
 
 ### Detection Samples
-![Detection Sample 1](results/detection1.png)
-![Detection Sample 2](results/detection2.png)
-![Detection Sample 3](results/detection3.png)
+![download (6)](https://github.com/user-attachments/assets/d53bafa4-811c-408f-b844-83d0bf1369c8)
+![download (5)](https://github.com/user-attachments/assets/84c586a6-149b-4bcd-9a68-14552f25bf61)
+
+
 
 ## License
 This project is open-source under the [MIT License](LICENSE).
