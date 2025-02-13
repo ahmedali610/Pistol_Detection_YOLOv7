@@ -47,12 +47,3 @@ Evaluation plots demonstrating the model performance:
 
 
 
-## License
-This project is open-source under the [MIT License](LICENSE).
-
-## Acknowledgments
-- [YOLOv7 GitHub Repository](https://github.com/WongKinYiu/yolov7)
-- Open-source datasets used for training and testing.
-
----
-Feel free to modify this README to match your specific implementation!
