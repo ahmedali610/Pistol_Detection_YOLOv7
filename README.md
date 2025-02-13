@@ -31,7 +31,7 @@ To test the model on an image:
 Evaluation plots demonstrating the model performance:
 
 ### Precision Curve
-(![download (2)](https://github.com/user-attachments/assets/76c94460-cf23-4132-8311-0ff7579741b9))
+![download (2)](https://github.com/user-attachments/assets/76c94460-cf23-4132-8311-0ff7579741b9)
 
 
 ### Recall Curve
